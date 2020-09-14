@@ -1,0 +1,3 @@
+Hi, this is a test
+in txt file.
+Bye
