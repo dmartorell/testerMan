@@ -1,6 +1,7 @@
 Hi, this is a test
 in txt file.
-Bye
+
+I erased bye and put a new thing.
 
 My new change.
 
